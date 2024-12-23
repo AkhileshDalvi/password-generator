@@ -2,6 +2,10 @@
 
 A modern React application that generates secure passwords based on user preferences. Built with React + TypeScript + Vite, utilizing React hooks for state management and side effects.
 
+## Live Demo
+
+🚀 [Try the Password Generator App](https://password-generator-green-delta.vercel.app/)
+
 ![Password Generator Screenshot](/src/assets/Password-Generator.png)
 
 ## Features
